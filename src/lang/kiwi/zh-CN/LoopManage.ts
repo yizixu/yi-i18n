@@ -1,0 +1,16 @@
+export default {
+  determineWhetherToClose: '确定是否闭合回路?',
+  closedLoop: '闭合回路',
+  determineWhetherToDisconnect: '确定是否断开回路?',
+  disconnectTheCircuit: '断开回路',
+  chineseSymbols: '、',
+  pleaseSelectAPolicy: '请选择策略',
+  pleaseSelectACircuit: '请选择回路',
+  unknown: '未知',
+  shut: '关',
+  open: '开',
+  circuitStatus: '回路状态',
+  notYet: '暂无',
+  loopController: '回路控制器名称/集中控制器名称/回路序列码/回路名称',
+  distributionStrategy: '下发策略',
+};

@@ -1,0 +1,20 @@
+export default {
+  "whetherToTake": "إذا كنت بحاجة إلى إلغاء المهمة",
+  "taskCancel": "إلغاء المهمة",
+  "doYouNeedToRedoIt": "إذا كنت بحاجة إلى إعادة تقديم المهمة",
+  "resubmit": "إعادة تقديم",
+  "details": "تفاصيل",
+  "expirationTime": "انتهاء الوقت",
+  "nextExecution": "وقت التنفيذ التالي",
+  "executionTimes": "تنفيذ عدد",
+  "serviceIdentification": "مهمة تحديد",
+  "state": "مركز",
+  "operation": "العمليات",
+  "type": "نوع .",
+  "businessIdRen": "هوية العمل / معرف المهمة / اسم المهمة",
+  "strategy": "استراتيجية",
+  "category": "نوع .",
+  "taskDetails": "تفاصيل المهمة",
+  "pleaseSelectADate": "الرجاء اختيار التاريخ",
+  "pleaseSelectType": "الرجاء اختيار نوع"
+}

@@ -1,0 +1,20 @@
+export default {
+  "whetherToTake": "Necesidad de cancelar la tarea",
+  "taskCancel": "Tarea cancelada",
+  "doYouNeedToRedoIt": "Si es necesario volver a presentar la tarea",
+  "resubmit": "Volver a presentar",
+  "details": "Detalles",
+  "expirationTime": "Fecha de caducidad",
+  "nextExecution": "Próxima ejecución",
+  "executionTimes": "Número de ejecuciones",
+  "serviceIdentification": "Identificación de la tarea",
+  "state": "Estado",
+  "operation": "Operaciones",
+  "type": "Tipo",
+  "businessIdRen": "Business ID / task ID / task name",
+  "strategy": "Estrategia",
+  "category": "Tipo",
+  "taskDetails": "Detalles de la tarea",
+  "pleaseSelectADate": "Por favor, seleccione una fecha",
+  "pleaseSelectType": "Por favor, seleccione el tipo"
+}

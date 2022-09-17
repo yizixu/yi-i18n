@@ -1,0 +1,63 @@
+export default {
+  "LightGroup": {
+    "cancelled": "إلغاء",
+    "notForTheTimeBeing": "لا مؤقتا",
+    "addEquipment": "إضافة معدات",
+    "addCircuit": "إضافة حلقة",
+    "createComponent": "إنشاء مجموعة ناجحة",
+    "grouping": "تجمع",
+    "cancel": "ألغى",
+    "determine": "أكّد",
+    "syncGroupsTo": "مزامنة الحزم إلى الجهاز",
+    "doYouWantToDoTheSame": "هل تريد مزامنة حزم المعلومات إلى الجهاز : { val1 } ؟",
+    "packetNotSynchronized": "الحزمة ليست متزامنة إلى الجهاز ، يرجى مزامنة",
+    "notSynchronized": "غير متزامن",
+    "synchronized": "مزامنة",
+    "loopController": "حلقة تحكم",
+    "singleLampController": "مصباح واحد تحكم",
+    "fail": "هزم",
+    "success": "النجاح .",
+    "inExecution": "في التنفيذ",
+    "initialization": "التهيئة",
+    "task": "مهمة",
+    "synchronization": "مزامنة",
+    "delete": "حذف .",
+    "edit": "تحرير .",
+    "see": "عرض .",
+    "remarks": "ملاحظات",
+    "synchronizationStatus": "حالة التزامن",
+    "groupingType": "نوع الحزمة",
+    "product": "المنتجات الرئيسية",
+    "groupName": "اسم المجموعة",
+    "groupNameProduction": "اسم المجموعة / اسم المنتج"
+  },
+  "GroupDetail": {
+    "groupPolicyColumn": "تجميع قائمة السياسات",
+    "groupingDeviceColumns": "حزمة قائمة الأجهزة",
+    "groupingInformation": "تجميع المعلومات",
+    "groupCircuitColumn": "علبة قائمة الحلقات",
+    "groupA": "مجموعة أ"
+  },
+  "MAddGroup": {
+    "getCentralizedControl": "الحصول على السيطرة المركزية",
+    "getLoopPolicy": "الحصول على حلقة استراتيجية",
+    "pleaseInputCorrectly": "الرجاء إدخال رقم المنفذ الصحيح",
+    "pleaseEnterThePort": "الرجاء إدخال رقم المنفذ",
+    "pleaseFillInTheCircuit": "يرجى ملء حلقة رمز",
+    "pleaseSelectACircuit": "الرجاء اختيار حلقة الرقم المسلسل",
+    "loop8": "حلقة",
+    "loop7": "حلقة",
+    "loop6": "حلقة",
+    "loop5": "حلقة",
+    "loop4": "حلقة",
+    "loop3": "حلقة",
+    "loop2": "حلقة",
+    "loop": "حلقة"
+  },
+  "MEditGroup": {
+    "pleaseFillInTheCircuit": "يرجى ملء اسم الدائرة",
+    "gateway": "بوابة",
+    "plcCentralized": "المجلس التشريعي الفلسطيني وحدة تحكم مركزية",
+    "pleaseFillInThePort": "يرجى ملء رقم المنفذ"
+  }
+}

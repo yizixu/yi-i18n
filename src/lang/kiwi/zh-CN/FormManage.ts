@@ -1,0 +1,41 @@
+export default {
+  ExecuteLog: {
+    requestTime: '请求时间',
+    withSingleLampBinding: '有单灯绑定不能删除回路',
+    outputData: '输出数据',
+    requestData: '请求数据',
+    objectModelKe: '物模型key',
+    centralizedController: '集中控制器名称',
+    pleaseEnterTheObjectModel: '请输入物模型',
+  },
+  Charts1: {
+    todaysWarning: '今日告警状态占比',
+  },
+  Charts2: {
+    energyConsumptionStatisticsOfTheCurrentMonth: '当月耗能统计',
+  },
+  Charts3: {
+    thisYear: '今年',
+    lastYear: '去年',
+  },
+  DeviceBusiness: {
+    trendOfElectricityConsumptionInRecentMonths: '近12月用电趋势',
+    annualPowerConsumptionTrend: '年度用电趋势',
+    energyConsumptionInTheCurrentMonthRight: '当月耗能对比',
+    energyConsumptionStatistics: '耗能统计',
+    numberOfAlarmsToday: '今日告警数据列表',
+    todaysAlarmSystem: '今日告警统计',
+    alarmStatistics: '告警统计',
+    total: '总数：',
+    numberOfLightsOn: '亮灯数：',
+    lightingRate: '亮灯率',
+    onlineNumber: '在线数：',
+    onlineRate: '在线率',
+    equipmentOperationAndMaintenance: '设备运维情况',
+    lastAlarm: '最后告警时间',
+    firstAlarm: '首次告警时间',
+    smartRodNo: '智慧杆编号',
+    alarmLevel: '告警级别',
+    alarmName: '告警名称',
+  },
+};

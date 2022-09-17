@@ -1,0 +1,27 @@
+{
+  "kiwiDir": "./src/lang/kiwi",
+  "srcLang": "zh-CN",
+  "distLangs": [
+    "en-US",
+    "es-ES",
+    "ar"
+  ],
+  "googleApiKey": "",
+  "baiduApiKey": {
+    "appId": "20220822001316060",
+    "appKey": "Jly5_MP_vvh3lySGWLP2"
+  },
+  "baiduLangMap": {
+    "en-US": "en",
+    "es-ES": "spa",
+    "ar": "ara"
+  },
+  "translateOptions": {
+    "concurrentLimit": 10,
+    "requestOptions": {}
+  },
+  "defaultTranslateKeyApi": "Baidu",
+  "importI18N": "import I18N from 'src/lang';",
+  "ignoreDir": "",
+  "ignoreFile": ""
+}

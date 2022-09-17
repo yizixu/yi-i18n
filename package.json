@@ -1,0 +1,39 @@
+{
+  "name": "yi-i18n",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "kiwi-intl": "1.2.6-beta.0",
+    "lodash": "^4.17.21",
+    "vue": "^3.2.37",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.3.4",
+    "@types/node": "^18.7.9",
+    "@vicons/material": "^0.12.0",
+    "@vicons/utils": "^0.1.4",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "naive-ui": "^2.32.2",
+    "rollup": "^2.78.1",
+    "sass": "^1.54.4",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4",
+    "unplugin-auto-import": "^0.11.2",
+    "unplugin-vue-components": "^0.22.4",
+    "vfonts": "^0.0.3",
+    "vite": "^3.0.7"
+  }
+}

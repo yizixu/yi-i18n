@@ -1,0 +1,63 @@
+export default {
+  "LightGroup": {
+    "cancelled": "Cancelado",
+    "notForTheTimeBeing": "No temporalmente",
+    "addEquipment": "Añadir equipo",
+    "addCircuit": "Aumento del bucle",
+    "createComponent": "Grupo creado con éxito",
+    "grouping": "Agrupación",
+    "cancel": "Cancelar",
+    "determine": "Determinar",
+    "syncGroupsTo": "Sincronización de paquetes a dispositivos",
+    "doYouWantToDoTheSame": "¿Desea sincronizar la información del paquete con el dispositivo: {val 1}?",
+    "packetNotSynchronized": "El paquete no está sincronizado con el dispositivo, por favor sincronice",
+    "notSynchronized": "No sincronizado",
+    "synchronized": "Sincronizado",
+    "loopController": "Controlador de bucle",
+    "singleLampController": "Controlador de luz única",
+    "fail": "Fracaso",
+    "success": "Éxito",
+    "inExecution": "En ejecución",
+    "initialization": "Inicialización",
+    "task": "Tareas",
+    "synchronization": "Sincronización",
+    "delete": "Borrar",
+    "edit": "Editar",
+    "see": "Ver",
+    "remarks": "Observaciones",
+    "synchronizationStatus": "Estado de sincronización",
+    "groupingType": "Tipo de paquete",
+    "product": "Productos de propiedad",
+    "groupName": "Nombre del Grupo",
+    "groupNameProduction": "Nombre del Grupo / nombre del producto"
+  },
+  "GroupDetail": {
+    "groupPolicyColumn": "Lista de políticas de agrupación",
+    "groupingDeviceColumns": "Lista de dispositivos de paquetes",
+    "groupingInformation": "Información de paquetes",
+    "groupCircuitColumn": "Lista de bucles de paquetes",
+    "groupA": "Grupo a"
+  },
+  "MAddGroup": {
+    "getCentralizedControl": "Obtener control centralizado",
+    "getLoopPolicy": "Estrategia del bucle de adquisición",
+    "pleaseInputCorrectly": "Introduzca el número de Puerto correcto",
+    "pleaseEnterThePort": "Introduzca el número de Puerto",
+    "pleaseFillInTheCircuit": "Por favor, rellene el Código de bucle",
+    "pleaseSelectACircuit": "Seleccione el número de serie del bucle",
+    "loop8": "Bucle {val 1}",
+    "loop7": "Bucle {val 1}",
+    "loop6": "Bucle {val 1}",
+    "loop5": "Bucle {val 1}",
+    "loop4": "Bucle {val 1}",
+    "loop3": "Bucle {val 1}",
+    "loop2": "Bucle {val 1}",
+    "loop": "Bucle {val 1}"
+  },
+  "MEditGroup": {
+    "pleaseFillInTheCircuit": "Por favor, rellene el nombre del bucle",
+    "gateway": "Gateway",
+    "plcCentralized": "Controlador centralizado PLC",
+    "pleaseFillInThePort": "Por favor, rellene el número de Puerto"
+  }
+}
